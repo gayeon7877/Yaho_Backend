@@ -5,7 +5,6 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class YahoApplicationTests {
-	//테스트중
 
 	@Test
 	void contextLoads() {
